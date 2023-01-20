@@ -36,7 +36,7 @@ const Multipleinputes = () => {
             </center>
 
             <form action="#" onSubmit={handleSubmit} >
-                <center             >
+                <center>
                     <div className="id1">
                         <label htmlFor="username">User name</label><br />
                         <input type="text" autoComplete="off"
